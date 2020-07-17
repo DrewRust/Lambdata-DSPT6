@@ -5,13 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 twine = "*"
-autopep8 = "*"
 
 [packages]
 pandas = "*"
+scipy = "*"
+numpy = "*"
 scikit-learn = "*"
-ipython = "*"
-pytest = "*"
+docker = "*"
 
 [requires]
 python_version = "3.7"

@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_wine
 from pdb import set_trace as breakpoint
-from IPython.display import display
+# from IPython.display import display
 
 
 def enlarge(n):
